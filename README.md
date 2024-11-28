@@ -5,11 +5,10 @@ I am a sophomore at IIT BHU Varanasi, pursuing Computer Science and Engineering.
 ## 🔭 Currently Working On
 
 - Improving my skills in competitive programming
-- Review Paper on Data Driven Autonomous Driving Simulation
 
 ## 🌱 Learning
 
-- Web development
+- App Development
 - Data structures and algorithms
 
 ## 👯 Looking to Collaborate On
