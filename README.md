@@ -9,12 +9,6 @@ I am a sophomore at IIT BHU Varanasi, pursuing Computer Science and Engineering.
 ## 🌱 Learning
 
 - App Development
-- Data structures and algorithms
-
-## 👯 Looking to Collaborate On
-
-- Open-source projects
-- Web development projects
 
 ## Languages and Tools
 
@@ -47,4 +41,4 @@ I am a sophomore at IIT BHU Varanasi, pursuing Computer Science and Engineering.
 
 ---
 
-Feel free to connect with me if you share similar interests or if you're looking for collaboration opportunities in programming or web development!
+Feel free to connect with me if you share similar interests or if you're looking for collaboration opportunities!
