@@ -6,9 +6,6 @@ I am a sophomore at IIT BHU Varanasi, pursuing Computer Science and Engineering.
 
 - Improving my skills in competitive programming
 
-## 🌱 Learning
-
-- App Development
 
 ## Languages and Tools
 
@@ -33,11 +30,6 @@ I am a sophomore at IIT BHU Varanasi, pursuing Computer Science and Engineering.
 
 - Email: jayesh.choudhary.skr@gmail.com
 - LinkedIn: [Jayesh Choudhary](https://www.linkedin.com/in/jayesh-choudhary-086b342aa/)
-
-## ⚡️ Fun Facts
-
-- 🎮 I enjoy playing chess in my spare time
-- 🎵 Music is my companion during coding sessions
 
 ---
 
