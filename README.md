@@ -1,11 +1,6 @@
 # Hi there! 👋 I'm Jayesh
 
-I am a sophomore at IIT BHU Varanasi, pursuing Computer Science and Engineering.
-
-## 🔭 Currently Working On
-
-- Improving my skills in competitive programming
-
+I am a junior at IIT BHU Varanasi, pursuing Computer Science and Engineering.
 
 ## Languages and Tools
 
